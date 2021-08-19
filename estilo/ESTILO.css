@@ -1,0 +1,113 @@
+
+.margen{
+    padding-top: -10px;
+    padding-right: 3px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    
+
+}
+.caja1{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 auto;
+  
+
+}
+#h1{
+    background: black ;
+        color:white;          
+    border-radius: 5px;
+}
+
+
+#input{
+
+    font-size:40px;
+}
+#btn{
+    width:100; 
+
+}
+.enviar
+{
+    float: left;
+    width: 200px;
+    margin: 10px 5px;
+}
+#input1{
+    width: 10px;
+}
+#botones{
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+#boto{
+    float:left;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#inputs{
+    float: left;
+    width: 400px;
+    margin: 10px 5px;
+
+}
+#inputslargos{
+    float: left;
+    width: 438px;
+    margin: 10px 5px;
+
+}
+#label{
+    float: left;
+    width: 200px;
+    margin: 10px 5px;
+
+}
+#radio{
+    float: left;
+    width: 100px;
+    margin: 5px 3px; 
+
+
+}
+#radio{
+    text-align: center;
+
+
+}
+#inputsE{
+    float: left;
+    width: 200px;
+    margin: 10px 5px;
+
+
+
+}
+#inputscortos{
+    float: left;
+    width: 500px;
+    margin: 10px 5px;
+
+
+
+}
+#cp{
+    float: left;
+    width: 350px;
+    margin: 10px 5px;
+
+
+
+}
+#prom{
+    float: left;
+    width: 250px;
+    margin: 10px 5px;
+
+
+
+}
