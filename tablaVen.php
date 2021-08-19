@@ -14,7 +14,7 @@ include './Consultas/ConscultaVen.php';
     </head>
     <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">EVALUACION</a>
+    <a class="navbar-brand" href="index.php">EVALUACION</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -29,7 +29,6 @@ include './Consultas/ConscultaVen.php';
         <div class="container" data-role="page" id="pageone">
              <div  data-role="header" id="h1">
                 </div>
-            <button id="btn" type="button"  class="btn btn-link"> <a href="index.php">Regresar</a></button>
             <div ddata-role="main" class="ui-content">
                 <table  class="table table-bordered"  id="myTable">
                     <br><br><br>
@@ -68,6 +67,12 @@ include './Consultas/ConscultaVen.php';
                     </tbody>
                 </table>
             </div>
+<br><br><br>
+
+            <div class="col text-center">
+            <button id="btn" type="button"  class="btn btn-link"> <a href="index.php">Regresar</a></button>
+
+           </div>
         </div>
     </body>
 </html>
